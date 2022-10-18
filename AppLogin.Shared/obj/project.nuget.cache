@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXc4rWcSIXnzaF4WnyAHyvX1HXyOKz9uR4esHhVjOxz59V5ftT2HagTHAmMLwSvBhPhZJk/Z9YzEY9gnZIgO4g==",
+  "success": true,
+  "projectFilePath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafael/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

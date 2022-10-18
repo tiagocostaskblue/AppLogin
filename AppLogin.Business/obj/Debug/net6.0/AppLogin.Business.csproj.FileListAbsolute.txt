@@ -1,0 +1,17 @@
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Business.deps.json
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Business.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Business.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.csproj.AssemblyReference.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.AssemblyInfoInputs.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.AssemblyInfo.cs
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.csproj.CoreCompileInputs.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/refint/AppLogin.Business.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/ref/AppLogin.Business.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Core.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Shared.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Core.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Business/bin/Debug/net6.0/AppLogin.Shared.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/Debug/net6.0/AppLogin.Business.csproj.CopyComplete

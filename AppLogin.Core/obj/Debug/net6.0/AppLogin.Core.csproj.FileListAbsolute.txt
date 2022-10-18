@@ -1,0 +1,15 @@
+/Users/rafael/DEV/AppLogin/AppLogin.Core/bin/Debug/net6.0/AppLogin.Core.deps.json
+/Users/rafael/DEV/AppLogin/AppLogin.Core/bin/Debug/net6.0/AppLogin.Core.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Core/bin/Debug/net6.0/AppLogin.Core.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Core/bin/Debug/net6.0/AppLogin.Shared.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Core/bin/Debug/net6.0/AppLogin.Shared.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.csproj.AssemblyReference.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.AssemblyInfoInputs.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.AssemblyInfo.cs
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.csproj.CoreCompileInputs.cache
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.csproj.CopyComplete
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/refint/AppLogin.Core.dll
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.pdb
+/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/ref/AppLogin.Core.dll
