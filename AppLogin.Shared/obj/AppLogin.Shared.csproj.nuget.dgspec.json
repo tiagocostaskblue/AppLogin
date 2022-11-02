@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj": {}
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj": {}
   },
   "projects": {
-    "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj": {
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj",
         "projectName": "AppLogin.Shared",
-        "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj",
-        "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/obj/",
+        "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj",
+        "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

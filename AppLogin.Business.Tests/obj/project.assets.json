@@ -6167,7 +6167,6 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AppLogin.Business >= 1.0.0",
-      "AppLogin.Core >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "Moq >= 4.18.2",
       "coverlet.collector >= 3.1.2",
@@ -6176,35 +6175,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/rafael/.nuget/packages/": {}
+    "C:\\Users\\Tiago Costa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj",
       "projectName": "AppLogin.Business.Tests",
-      "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj",
-      "packagesPath": "/Users/rafael/.nuget/packages/",
-      "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/obj/",
+      "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj",
+      "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rafael/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj": {
-              "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj"
-            },
-            "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj": {
-              "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj"
+            "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj": {
+              "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj"
             }
           }
         }
@@ -6259,7 +6258,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

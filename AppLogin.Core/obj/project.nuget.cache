@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9VkmDK48b/cE94s//UZ6Iu1Zvl+1aFhPBSHB/0t3evctkAG1LJ3nh3qHCZz/rUKB6zbwv7NC14LjBn0ovHBRIw==",
+  "dgSpecHash": "z+7DnTbUjj/+sD5IMr+hHdee7bbJ/N20o2mnLNrDRxQZx2WLFG1KfwU7/YdJyGcn1flo6mDPm941d4WNsVXBHw==",
   "success": true,
-  "projectFilePath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj",
+  "projectFilePath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj",
   "expectedPackageFiles": [
-    "/Users/rafael/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\Tiago Costa\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
   ],
   "logs": []
 }

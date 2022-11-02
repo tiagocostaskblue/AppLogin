@@ -24,7 +24,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\AppLogin.Business\AppLogin.Business.csproj" />
-      <ProjectReference Include="..\AppLogin.Core\AppLogin.Core.csproj" />
     </ItemGroup>
 
 </Project>

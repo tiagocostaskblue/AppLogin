@@ -13,3 +13,18 @@
 /Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/refint/AppLogin.Core.dll
 /Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/AppLogin.Core.pdb
 /Users/rafael/DEV/AppLogin/AppLogin.Core/obj/Debug/net6.0/ref/AppLogin.Core.dll
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\bin\Debug\net6.0\AppLogin.Core.deps.json
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\bin\Debug\net6.0\AppLogin.Core.dll
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\bin\Debug\net6.0\AppLogin.Core.pdb
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\bin\Debug\net6.0\AppLogin.Shared.dll
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\bin\Debug\net6.0\AppLogin.Shared.pdb
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.csproj.AssemblyReference.cache
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.AssemblyInfoInputs.cache
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.AssemblyInfo.cs
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.csproj.CopyComplete
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.dll
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\refint\AppLogin.Core.dll
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\AppLogin.Core.pdb
+C:\Users\Tiago Costa\Documents\GitHub\AppLogin\AppLogin.Core\obj\Debug\net6.0\ref\AppLogin.Core.dll

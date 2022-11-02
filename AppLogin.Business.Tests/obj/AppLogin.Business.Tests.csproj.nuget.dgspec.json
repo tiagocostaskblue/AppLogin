@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj": {}
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj": {}
   },
   "projects": {
-    "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj": {
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj",
         "projectName": "AppLogin.Business.Tests",
-        "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/AppLogin.Business.Tests.csproj",
-        "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business.Tests/obj/",
+        "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\AppLogin.Business.Tests.csproj",
+        "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj": {
-                "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj"
-              },
-              "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj": {
-                "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj"
+              "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj": {
+                "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj"
               }
             }
           }
@@ -85,34 +85,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj": {
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj",
         "projectName": "AppLogin.Business",
-        "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business/AppLogin.Business.csproj",
-        "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Business/obj/",
+        "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\AppLogin.Business.csproj",
+        "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj": {
-                "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj"
+              "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj"
               }
             }
           }
@@ -141,34 +144,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj": {
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj",
         "projectName": "AppLogin.Core",
-        "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/AppLogin.Core.csproj",
-        "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Core/obj/",
+        "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\AppLogin.Core.csproj",
+        "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj": {
-                "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj"
+              "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj"
               }
             }
           }
@@ -197,26 +203,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj": {
+    "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj",
         "projectName": "AppLogin.Shared",
-        "projectPath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/AppLogin.Shared.csproj",
-        "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/DEV/AppLogin/AppLogin.Shared/obj/",
+        "projectPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\AppLogin.Shared.csproj",
+        "packagesPath": "C:\\Users\\Tiago Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Costa\\Documents\\GitHub\\AppLogin\\AppLogin.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tiago Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.ageas.pt:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -255,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
